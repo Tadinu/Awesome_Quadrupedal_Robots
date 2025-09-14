@@ -717,6 +717,7 @@
 - [![](https://img.shields.io/badge/ANYbotics-grid_map-black?style=flat-square&logo=github)](https://github.com/ANYbotics/grid_map) <img src="https://img.shields.io/github/stars/ANYbotics/grid_map?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-vlfm-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/vlfm) <img src="https://img.shields.io/github/stars/bdaiinstitute/vlfm?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-viplanner-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/viplanner) <img src="https://img.shields.io/github/stars/leggedrobotics/viplanner?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/oravus-object--rel--nav-black?style=flat-square&logo=github)](https://github.com/oravus/object-rel-nav) <img src="https://img.shields.io/github/stars/oravus/object-rel-nav?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square&logo=github)](https://github.com/zst1406217/VR-Robo) <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
 </details>
 
