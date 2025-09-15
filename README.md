@@ -166,6 +166,7 @@
 - [Slip Detection and Recovery for Quadruped Robots via Orthogonal Decomposition](https://ieeexplore.ieee.org/abstract/document/10769508)
 - [SLR: Learning Quadruped Locomotion without Privileged Information](https://arxiv.org/abs/2406.04835)
 - [SoloParkour: Constrained Reinforcement Learning for Visual Locomotion from Privileged Experience](https://arxiv.org/abs/2409.13678)
+- [Spatio-Temporal Motion Retargeting for Quadruped Robots](https://arxiv.org/abs/2404.11557)
 - [SYNLOCO‐VE: Synthesizing central pattern generator with reinforcement learning and velocity estimator for quadruped locomotion](https://onlinelibrary.wiley.com/doi/abs/10.1002/oca.3181)
 - [Track2Act: Predicting Point Tracks from Internet Videos enables Diverse Zero-shot Robot Manipulation](https://arxiv.org/abs/2405.01527)
 - [UMI on Legs: Making Manipulation Policies Mobile with Manipulation-Centric Whole-body Controllers](https://arxiv.org/abs/2407.10353)
@@ -619,6 +620,7 @@
 - [![](https://img.shields.io/badge/LeCAR--Lab-ABS-black?style=flat-square&logo=github)](https://github.com/LeCAR-Lab/ABS) <img src="https://img.shields.io/github/stars/LeCAR-Lab/ABS?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-learning_quadrupedal_locomotion_over_challenging_terrain_supplementary-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/learning_quadrupedal_locomotion_over_challenging_terrain_supplementary) <img src="https://img.shields.io/github/stars/leggedrobotics/learning_quadrupedal_locomotion_over_challenging_terrain_supplementary?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-rsl_rl-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/rsl_rl) <img src="https://img.shields.io/github/stars/leggedrobotics/rsl_rl?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/marmotlab-SATA-black?style=flat-square&logo=github)](https://github.com/marmotlab/SATA) <img src="https://img.shields.io/github/stars/marmotlab/SATA?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/nico--bohlinger-one_policy_to_run_them_all-black?style=flat-square&logo=github)](https://github.com/nico-bohlinger/one_policy_to_run_them_all) <img src="https://img.shields.io/github/stars/nico-bohlinger/one_policy_to_run_them_all?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/NM512-dreamerv3--torch-black?style=flat-square&logo=github)](https://github.com/NM512/dreamerv3-torch) <img src="https://img.shields.io/github/stars/NM512/dreamerv3-torch?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/OpenQuadruped-spot_mini_mini-black?style=flat-square&logo=github)](https://github.com/OpenQuadruped/spot_mini_mini) <img src="https://img.shields.io/github/stars/OpenQuadruped/spot_mini_mini?style=flat-square&color=yellow">
@@ -717,6 +719,7 @@
 - [![](https://img.shields.io/badge/ANYbotics-grid_map-black?style=flat-square&logo=github)](https://github.com/ANYbotics/grid_map) <img src="https://img.shields.io/github/stars/ANYbotics/grid_map?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/bdaiinstitute-vlfm-black?style=flat-square&logo=github)](https://github.com/bdaiinstitute/vlfm) <img src="https://img.shields.io/github/stars/bdaiinstitute/vlfm?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/leggedrobotics-viplanner-black?style=flat-square&logo=github)](https://github.com/leggedrobotics/viplanner) <img src="https://img.shields.io/github/stars/leggedrobotics/viplanner?style=flat-square&color=yellow">
+- [![](https://img.shields.io/badge/martius--lab-dominic-black?style=flat-square&logo=github)](https://github.com/martius-lab/dominic) <img src="https://img.shields.io/github/stars/martius-lab/dominic?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/oravus-object--rel--nav-black?style=flat-square&logo=github)](https://github.com/oravus/object-rel-nav) <img src="https://img.shields.io/github/stars/oravus/object-rel-nav?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/podgorki-TANGO-black?style=flat-square&logo=github)](https://github.com/podgorki/TANGO) <img src="https://img.shields.io/github/stars/podgorki/TANGO?style=flat-square&color=yellow">
 - [![](https://img.shields.io/badge/zst1406217-VR--Robo-black?style=flat-square&logo=github)](https://github.com/zst1406217/VR-Robo) <img src="https://img.shields.io/github/stars/zst1406217/VR-Robo?style=flat-square&color=yellow">
